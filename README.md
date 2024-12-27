@@ -1,7 +1,7 @@
  ### Olá, me chamo Lucas Anderson de Souza Marques! 👋
 ## Sobre mim
 
-Eu tenho 18 anos e moro em Uberlândia-MG! Sempre gostei muito de computadores e de tecnologias, então agora estou imergindo mais a fundo nisto!
+Eu tenho 19 anos e moro em Uberlândia-MG! Sempre gostei muito de computadores e de tecnologias, então agora estou imergindo mais a fundo nisto!
 
 ## Cursos
 
