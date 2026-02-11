@@ -1,11 +1,11 @@
  ### Olá, me chamo Lucas Anderson de Souza Marques! 👋
 ## Sobre mim
 
-Eu tenho 19 anos e moro em Uberlândia-MG! Sempre gostei muito de computadores e de tecnologias, então agora estou imergindo mais a fundo nisto!
+Eu tenho 20 anos e moro em Uberlândia-MG! Sou estagiário de desenvolvimento na Algar Tech. Sempre gostei muito de computadores e de tecnologias, então agora estou imergindo mais a fundo nisto!
 
 ## Cursos
 
-Atualmente eu faço o curso Full Stack Python da EBAC, porém pretendo aprender também sobre Segurança da Informação, área na qual pretendo me especializar.
+Atualmente eu faço o curso de Sistemas de Informação na Anhanguera Educacional, estou no 5o período. Completei com êxito o curso Full Stack Python da EBAC, onde obtive diversos conhecimentos relacionados às tecnologias utilizadas no desenvolvimento Full Stack.
 
 ## Ferramentas e Tecnologias
 
