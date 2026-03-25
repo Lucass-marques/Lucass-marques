@@ -1,7 +1,7 @@
  ### Olá, me chamo Lucas Anderson de Souza Marques! 👋
 ## Sobre mim
 
-Eu tenho 20 anos e moro em Uberlândia-MG! Sou estagiário de desenvolvimento na Algar Tech. Sempre gostei muito de computadores e de tecnologias, então agora estou imergindo mais a fundo nisto!
+Eu tenho 20 anos e moro em Uberlândia-MG! Sou desenvolvedor Full Stack com experiências em Big Techs como Algar Tech.
 
 ## Cursos
 
