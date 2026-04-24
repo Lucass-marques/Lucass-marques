@@ -7,7 +7,7 @@ Eu tenho 20 anos e moro em Uberlândia-MG! Sou desenvolvedor Full Stack com expe
 
 Atualmente eu faço o curso de Sistemas de Informação na Anhanguera Educacional, estou no 5o período. Completei com êxito o curso Full Stack Python da EBAC, onde obtive diversos conhecimentos relacionados às tecnologias utilizadas no desenvolvimento Full Stack.
 
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações utilizando C# e .NET no backend, e Angular e React no frontend. Atuei na construção e manutenção de sistemas, desenvolvendo APIs RESTful, integração entre serviços e criação de interfaces web responsivas.
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações utilizando C# e Java com Spring Boot no backend, e Angular e React no frontend. Atuei na construção e manutenção de sistemas, desenvolvendo APIs RESTful, integração entre serviços e criação de interfaces web responsivas.
 
 Tenho experiência com desenvolvimento utilizando TypeScript, HTML, CSS (SASS/SCSS) e bancos de dados relacionais como SQL, além de versionamento com Git. Também possuo vivência com metodologias ágeis e ferramentas como Jira e Confluence.
 
